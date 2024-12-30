@@ -1,5 +1,4 @@
 ---
 title: Welcome to my blog
-I will be attempting to put together my first website. 
 ---
-
+I am attempting to design my first blog via GitHub Pages.
